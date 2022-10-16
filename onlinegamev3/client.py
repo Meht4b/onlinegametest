@@ -1,4 +1,3 @@
-from http import client
 import pickle
 import pygame
 from gameclasses import *
